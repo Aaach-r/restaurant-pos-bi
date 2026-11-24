@@ -1,0 +1,5 @@
+id_metodo_pago,metodo_pago,comision_pct
+1,Efectivo,0.0
+2,Tarjeta Débito,0.018
+3,Tarjeta Crédito,0.029
+4,Transferencia,0.0

@@ -1,0 +1,19 @@
+id_platillo,nombre_platillo,categoria,precio_lista,costo_unitario
+1,Pasta Alfredo con Pollo,Platos Fuertes,215.0,78.0
+2,Lasaña Boloñesa,Platos Fuertes,235.0,92.0
+3,Pizza Pepperoni Artesanal,Platos Fuertes,220.0,68.0
+4,Pizza Margarita,Platos Fuertes,195.0,56.0
+5,Risotto de Hongos,Platos Fuertes,260.0,110.0
+6,Salmón a la Plancha,Platos Fuertes,310.0,155.0
+7,Ensalada César con Pollo,Entradas,165.0,54.0
+8,Pan de Ajo Gratinado,Entradas,95.0,24.0
+9,Dedos de Queso Mozzarella,Entradas,135.0,45.0
+10,Carpaccio de Res,Entradas,185.0,82.0
+11,Limonada Mineral,Bebidas,58.0,11.0
+12,Refresco de Lata,Bebidas,48.0,14.0
+13,Cerveza Artesanal,Bebidas,95.0,32.0
+14,Copa de Vino Tinto,Bebidas,145.0,46.0
+15,Café Americano,Bebidas,55.0,9.0
+16,Tiramisú Clásico,Postres,125.0,38.0
+17,Cheesecake de Frutos Rojos,Postres,118.0,36.0
+18,Brownie con Helado,Postres,110.0,31.0
