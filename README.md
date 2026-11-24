@@ -1,9 +1,5 @@
 # Análisis Comercial y Operativo — Restaurante POS (End-to-End BI)
 
-![Python](https://img.shields.io/badge/Python-ETL%20%26%20Data%20Cleaning-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Star%20Schema%20%26%20Views-336791?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-Cloud%20Database-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%26%20Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 Proyecto **end-to-end de Business Intelligence** diseñado para transformar datos transaccionales de un punto de venta (POS) restaurantero en decisiones comerciales y operativas accionables. Cubre todo el ciclo analítico: generación y limpieza ETL en **Python**, modelado dimensional en **PostgreSQL (Supabase)**, validación mediante **vistas SQL** y visualización ejecutiva interactiva en **Power BI**.
 
